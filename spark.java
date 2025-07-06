@@ -5,4 +5,7 @@ class spark{
     public void meth(){
         System.out.println("meth");
     }
+    public void notification(){
+        System.out.println("Notification");
+    }
 }
