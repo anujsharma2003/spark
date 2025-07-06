@@ -8,4 +8,7 @@ class spark{
     public void notification(){
         System.out.println("Notification");
     }
+    public void Vanshika(){
+        System.out.println("Vanshika");
+    }
 }
